@@ -45,7 +45,7 @@ App({
   },
   globalData: {
     userInfo: null,
-    serviceUrl:'http://127.0.0.1:8000',
+    serviceUrl:'http://49.234.237.247:8000',
     apiVersion:'/api/v1.0',
     appid:'wx55eb4889663359d9',
     auth:{
